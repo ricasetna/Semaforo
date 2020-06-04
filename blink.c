@@ -6,7 +6,7 @@
 /**********************************************************************/
  
 
-/* Actualizacion David*/
+/* Actualizacion David 2*/
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
