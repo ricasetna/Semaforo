@@ -6,7 +6,7 @@
 /**********************************************************************/
  
 
-/* El ricas se la come*/
+/* Actualizacion David*/
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
