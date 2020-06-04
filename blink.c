@@ -4,7 +4,9 @@
 /* verde de autos, 6 segundos de parpadeo en verde y 6 segundos de    */
 /* amarillo, los peatones tienen 60 segundos para pasar en cada caso  */
 /**********************************************************************/
+ 
 
+/* El ricas se la come*/
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
